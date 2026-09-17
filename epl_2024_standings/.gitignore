@@ -1,0 +1,19 @@
+#Environ credentials
+.env
+*.env
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+out/
+
+# IDE & User-specific settings
+.vscode/
+.idea/
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+Thumbs.db
+.DS_Store
